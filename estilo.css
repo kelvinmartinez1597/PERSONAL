@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color:orange;
+    padding: 16px;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    text-decoration-line: underline;
+    border: 10px;
+}
