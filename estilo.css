@@ -46,6 +46,15 @@ nav{
     background: #E5E5E5;
 }
 
+ul{
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li{
+    display: inline;
+}
+
 .popular {
     background: #E5E5E5;
 }
